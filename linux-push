@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir -pv /root/media
+mkdir -pv /root/shell
